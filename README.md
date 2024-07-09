@@ -1,0 +1,2 @@
+# Castys-bot
+Trading
